@@ -1,6 +1,6 @@
 # Leaflet.TileLayer.GoogleMap.Grayscale
 
-A regular TileLayer with grayscale makeover.
+A regular GoogleMap TileLayer with grayscale makeover.
 
 ## Usage
 
@@ -9,8 +9,9 @@ A regular TileLayer with grayscale makeover.
 
 ## Example
 
-http://zverik.github.com/leaflet-grayscale/
+http://embed.plnkr.co/Eo39o0/
 
 ## License
 
 This plugin was written by James Croft, expend by Kennet Hu and published under WTFPL license.
+
